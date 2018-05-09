@@ -1,20 +1,30 @@
-# Material Design Lite Template Kit.  
+# Material Design Lite Template Kit.
 
-## Reference.  
+## Reference.
+
 ・Material Design Lite.  
 => <https://getmdl.io>  
 
 ・GitHub.  
 => <https://github.com/google/material-design-lite>  
 
-・Material Icons.  
-=> <https://material.io/icons/>  
-
 ・Material Design.  
 => <https://material.io>  
 
-・Guide Lines.  
-=> <https://material.io/guidelines/>  
+・Design.  
+=> <https://material.io/design/>  
 
-・Guide Lines for Japanese.  
-=> <https://material.io/jp/guidelines/>
+・Develop.  
+=> <https://material.io/develop/>
+
+・Tools.  
+=> <https://material.io/tools/>
+
+・Material Components.  
+=> <https://github.com/material-components/>
+
+・Material Components Web.  
+=> <https://github.com/material-components/material-components-web/>
+
+・Material Components for React.  
+=> <https://github.com/material-components/material-components-web-react/>
